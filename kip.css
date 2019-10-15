@@ -1,0 +1,37 @@
+body{
+	background-color: #def6ed;
+  width: 500px;
+}
+
+.tekst1 {
+	font-size: 36px;
+	border-style: solid;
+	border-top-style: none;
+	border-left-style: none;
+	border-right-style: none;
+}
+body {
+    font-family: 'Roboto', sans-sarif;
+}
+
+.mainbox  {
+background-color: #def6ed;
+
+margin-left: 350px;
+margin-right: 350px;
+min-width: 700px;
+min-height: 500px
+
+}
+
+.tekst2 {
+	font-size: 32px
+}
+
+.tekst3 {
+	padding-top: 0px
+}
+
+.tekst4 {
+	font-size: 26px
+}
